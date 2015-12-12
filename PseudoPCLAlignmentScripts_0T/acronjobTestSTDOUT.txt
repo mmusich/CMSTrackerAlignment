@@ -1,0 +1,2328 @@
+New Job Tue Aug 18 00:33:45 CEST 2015
+Job <688880320> is submitted to queue <8nh>.
+[?1034hStart New Job Tue Aug 18 00:33:48 2015
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254293 >& curlOutput.txt
+./das_client.py --query="file run=254293 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254293
+Number of files 304
+Number of events 285013
+Job Finished 
+Job Finished Tue Aug 18 00:34:19 CEST 2015
+New Job Tue Aug 18 12:41:39 CEST 2015
+Job <688990589> is submitted to queue <8nh>.
+[?1034hStart New Job Tue Aug 18 12:42:01 2015
+254293
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254293 >& curlOutput.txt
+./das_client.py --query="file run=254293 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254293
+Number of files 304
+Number of events 285013
+Job Finished 
+Job Finished Tue Aug 18 12:43:10 CEST 2015
+New Job Tue Aug 18 13:37:49 CEST 2015
+Job <688995758> is submitted to queue <8nh>.
+[?1034hStart New Job Tue Aug 18 13:37:55 2015
+254293
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254349 >& curlOutput.txt
+./das_client.py --query="file run=254349 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254349
+Number of files 297
+Number of events 243121
+Job Finished 
+Job Finished Tue Aug 18 13:38:32 CEST 2015
+New Job Tue Aug 18 19:56:18 CEST 2015
+Job <689104003> is submitted to queue <8nh>.
+[?1034hStart New Job Tue Aug 18 19:56:19 2015
+254349
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254349 >& curlOutput.txt
+./das_client.py --query="file run=254349 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254349
+Number of files 297
+Number of events 243121
+Job Finished 
+Job Finished Tue Aug 18 19:56:51 CEST 2015
+New Job Tue Aug 18 20:01:24 CEST 2015
+Job <689104376> is submitted to queue <8nh>.
+[?1034hStart New Job Tue Aug 18 20:01:24 2015
+254349
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Tue Aug 18 20:01:49 CEST 2015
+New Job Tue Sep  1 17:05:21 CEST 2015
+Job <693186235> is submitted to queue <8nh>.
+Start New Job Tue Sep  1 17:05:22 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Tue Sep  1 17:05:43 CEST 2015
+New Job Tue Sep  1 18:05:16 CEST 2015
+Job <693200928> is submitted to queue <8nh>.
+Start New Job Tue Sep  1 18:05:18 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Tue Sep  1 18:05:57 CEST 2015
+New Job Tue Sep  1 19:05:55 CEST 2015
+Job <693207089> is submitted to queue <8nh>.
+Start New Job Tue Sep  1 19:05:56 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Tue Sep  1 19:06:24 CEST 2015
+New Job Tue Sep  1 20:05:51 CEST 2015
+Job <693215461> is submitted to queue <8nh>.
+Start New Job Tue Sep  1 20:05:52 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Tue Sep  1 20:06:33 CEST 2015
+New Job Tue Sep  1 21:05:48 CEST 2015
+Job <693229898> is submitted to queue <8nh>.
+Start New Job Tue Sep  1 21:05:49 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Tue Sep  1 21:09:46 CEST 2015
+New Job Tue Sep  1 22:05:59 CEST 2015
+Job <693251019> is submitted to queue <8nh>.
+Start New Job Tue Sep  1 22:06:00 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Tue Sep  1 22:06:38 CEST 2015
+New Job Tue Sep  1 23:05:46 CEST 2015
+Job <693276444> is submitted to queue <8nh>.
+Start New Job Tue Sep  1 23:05:47 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Tue Sep  1 23:06:14 CEST 2015
+New Job Wed Sep  2 00:06:08 CEST 2015
+Job <693288708> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 00:06:10 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 00:06:52 CEST 2015
+New Job Wed Sep  2 01:05:14 CEST 2015
+Job <693303554> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 01:05:15 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 01:05:37 CEST 2015
+New Job Wed Sep  2 02:06:05 CEST 2015
+Job <693314541> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 02:06:07 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 02:07:00 CEST 2015
+New Job Wed Sep  2 03:05:50 CEST 2015
+Job <693327697> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 03:05:50 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 03:06:07 CEST 2015
+New Job Wed Sep  2 04:05:45 CEST 2015
+Job <693336838> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 04:05:46 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 04:06:27 CEST 2015
+New Job Wed Sep  2 05:06:07 CEST 2015
+Job <693344262> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 05:06:08 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 05:06:29 CEST 2015
+New Job Wed Sep  2 06:05:14 CEST 2015
+Job <693351864> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 06:05:16 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 06:05:48 CEST 2015
+New Job Wed Sep  2 07:05:46 CEST 2015
+Job <693360368> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 07:05:48 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 07:06:22 CEST 2015
+New Job Wed Sep  2 08:05:18 CEST 2015
+Job <693367560> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 08:05:18 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 08:07:38 CEST 2015
+New Job Wed Sep  2 09:05:33 CEST 2015
+Job <693377972> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 09:05:33 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 09:05:54 CEST 2015
+New Job Wed Sep  2 10:05:27 CEST 2015
+Job <693395205> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 10:05:28 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 10:05:56 CEST 2015
+New Job Wed Sep  2 11:05:30 CEST 2015
+Job <693410119> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 11:05:30 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 11:05:53 CEST 2015
+New Job Wed Sep  2 12:05:16 CEST 2015
+Job <693426631> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 12:05:17 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 12:05:37 CEST 2015
+New Job Wed Sep  2 13:05:42 CEST 2015
+Job <693439349> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 13:05:43 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 13:06:13 CEST 2015
+New Job Wed Sep  2 14:05:19 CEST 2015
+Job <693448316> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 14:05:20 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 14:06:06 CEST 2015
+New Job Wed Sep  2 15:06:03 CEST 2015
+Job <693464863> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 15:06:05 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 15:10:13 CEST 2015
+New Job Wed Sep  2 16:06:06 CEST 2015
+Job <693479709> is submitted to queue <8nh>.
+Start New Job Wed Sep  2 16:06:08 2015
+254459
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=254459 >& curlOutput.txt
+./das_client.py --query="file run=254459 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+254459
+Number of files 790
+Number of events 615063
+Job Finished 
+Job Finished Wed Sep  2 16:06:45 CEST 2015
+New Job Tue Sep  8 17:05:19 CEST 2015
+Start New Job Tue Sep  8 17:05:20 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Tue Sep  8 17:06:30 CEST 2015
+New Job Tue Sep  8 17:20:44 CEST 2015
+[?1034hStart New Job Tue Sep  8 17:20:45 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Tue Sep  8 17:22:02 CEST 2015
+New Job Tue Sep  8 22:05:48 CEST 2015
+Start New Job Tue Sep  8 22:05:49 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Tue Sep  8 22:05:58 CEST 2015
+New Job Tue Sep  8 23:05:40 CEST 2015
+Start New Job Tue Sep  8 23:05:42 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Tue Sep  8 23:05:54 CEST 2015
+New Job Wed Sep  9 00:05:16 CEST 2015
+Start New Job Wed Sep  9 00:05:17 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 00:05:27 CEST 2015
+New Job Wed Sep  9 01:05:30 CEST 2015
+Start New Job Wed Sep  9 01:05:32 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 01:05:44 CEST 2015
+New Job Wed Sep  9 02:05:39 CEST 2015
+Start New Job Wed Sep  9 02:05:39 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 02:05:53 CEST 2015
+New Job Wed Sep  9 03:06:00 CEST 2015
+Start New Job Wed Sep  9 03:06:00 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 03:06:21 CEST 2015
+New Job Wed Sep  9 04:06:00 CEST 2015
+Start New Job Wed Sep  9 04:06:01 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 04:06:17 CEST 2015
+New Job Wed Sep  9 05:05:35 CEST 2015
+Start New Job Wed Sep  9 05:05:35 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 05:05:57 CEST 2015
+New Job Wed Sep  9 06:05:41 CEST 2015
+Start New Job Wed Sep  9 06:05:41 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 06:05:53 CEST 2015
+New Job Wed Sep  9 07:05:45 CEST 2015
+Start New Job Wed Sep  9 07:05:46 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 07:06:00 CEST 2015
+New Job Wed Sep  9 08:06:06 CEST 2015
+Start New Job Wed Sep  9 08:06:07 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 08:06:24 CEST 2015
+New Job Wed Sep  9 09:06:07 CEST 2015
+Start New Job Wed Sep  9 09:06:08 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 09:06:17 CEST 2015
+New Job Wed Sep  9 10:05:23 CEST 2015
+Start New Job Wed Sep  9 10:05:24 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 10:05:36 CEST 2015
+New Job Wed Sep  9 11:05:59 CEST 2015
+Start New Job Wed Sep  9 11:06:00 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 11:06:16 CEST 2015
+New Job Wed Sep  9 12:06:36 CEST 2015
+Start New Job Wed Sep  9 12:06:37 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 12:06:45 CEST 2015
+New Job Wed Sep  9 13:06:06 CEST 2015
+Start New Job Wed Sep  9 13:06:08 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 13:06:21 CEST 2015
+New Job Wed Sep  9 14:05:25 CEST 2015
+Start New Job Wed Sep  9 14:05:26 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 14:05:38 CEST 2015
+New Job Wed Sep  9 15:05:20 CEST 2015
+Start New Job Wed Sep  9 15:05:21 2015
+255242
+./das_client.py --query="run dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255242'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255621 >& curlOutput.txt
+./das_client.py --query="file run=255621 dataset=/StreamExpress/Run2015C-TkAlMinBias-Express-v1/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255621
+Number of events:  0
+Job Finished Wed Sep  9 15:05:29 CEST 2015
+New Job Wed Sep  9 17:05:11 CEST 2015
+Start New Job Wed Sep  9 17:05:12 2015
+255983
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>255983'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255984 >& curlOutput.txt
+./das_client.py --query="file run=255984 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255984
+Number of events:  13395
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255985 >& curlOutput.txt
+./das_client.py --query="file run=255985 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255985
+Number of events:  1836
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255987 >& curlOutput.txt
+./das_client.py --query="file run=255987 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255987
+Number of events:  4449
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255988 >& curlOutput.txt
+./das_client.py --query="file run=255988 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255988
+Number of events:  7646
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255989 >& curlOutput.txt
+./das_client.py --query="file run=255989 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255989
+Number of events:  2726
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255990 >& curlOutput.txt
+./das_client.py --query="file run=255990 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255990
+Number of events:  16962
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=255993 >& curlOutput.txt
+./das_client.py --query="file run=255993 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 255993
+Number of events:  7927
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256000 >& curlOutput.txt
+./das_client.py --query="file run=256000 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256000
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256001 >& curlOutput.txt
+./das_client.py --query="file run=256001 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256001
+Number of events:  2255
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256002 >& curlOutput.txt
+./das_client.py --query="file run=256002 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256002
+Number of files 97
+Number of events 93193
+./das_client.py --query="run=256002 | grep run.bfield" --limit=0
+Job Finished Wed Sep  9 17:06:16 CEST 2015
+New Job Wed Sep  9 18:05:35 CEST 2015
+Start New Job Wed Sep  9 18:05:35 2015
+256002
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256002'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256003 >& curlOutput.txt
+./das_client.py --query="file run=256003 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256003
+Number of files 32
+Number of events 34304
+./das_client.py --query="run=256003 | grep run.bfield" --limit=0
+Job Finished Wed Sep  9 18:05:45 CEST 2015
+New Job Wed Sep  9 19:05:18 CEST 2015
+Start New Job Wed Sep  9 19:05:19 2015
+256003
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256003'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256004 >& curlOutput.txt
+./das_client.py --query="file run=256004 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256004
+Number of files 154
+Number of events 158338
+./das_client.py --query="run=256004 | grep run.bfield" --limit=0
+Job Finished Wed Sep  9 19:05:35 CEST 2015
+New Job Wed Sep  9 20:06:06 CEST 2015
+Start New Job Wed Sep  9 20:06:08 2015
+256004
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256004'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256125 >& curlOutput.txt
+./das_client.py --query="file run=256125 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256125
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256141 >& curlOutput.txt
+./das_client.py --query="file run=256141 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256141
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256143 >& curlOutput.txt
+./das_client.py --query="file run=256143 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256143
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256144 >& curlOutput.txt
+./das_client.py --query="file run=256144 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256144
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256165 >& curlOutput.txt
+./das_client.py --query="file run=256165 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256165
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256166 >& curlOutput.txt
+./das_client.py --query="file run=256166 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256166
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256167 >& curlOutput.txt
+./das_client.py --query="file run=256167 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256167
+Number of files 87
+Number of events 82800
+./das_client.py --query="run=256167 | grep run.bfield" --limit=0
+Job Finished Wed Sep  9 20:07:04 CEST 2015
+New Job Wed Sep  9 21:05:33 CEST 2015
+Start New Job Wed Sep  9 21:05:36 2015
+256167
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256167'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256168 >& curlOutput.txt
+./das_client.py --query="file run=256168 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256168
+Number of events:  106
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256169 >& curlOutput.txt
+./das_client.py --query="file run=256169 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256169
+Number of files 82
+Number of events 79406
+./das_client.py --query="run=256169 | grep run.bfield" --limit=0
+Job Finished Wed Sep  9 21:06:00 CEST 2015
+New Job Wed Sep  9 22:05:59 CEST 2015
+Start New Job Wed Sep  9 22:05:59 2015
+256169
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256169'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256171 >& curlOutput.txt
+./das_client.py --query="file run=256171 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256171
+Number of files 297
+Number of events 345560
+./das_client.py --query="run=256171 | grep run.bfield" --limit=0
+Job Finished Wed Sep  9 22:06:14 CEST 2015
+New Job Wed Sep  9 23:05:53 CEST 2015
+Job <696032909> is submitted to queue <8nh>.
+Start New Job Wed Sep  9 23:05:54 2015
+256171
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256171'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256187 >& curlOutput.txt
+./das_client.py --query="file run=256187 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256187
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256188 >& curlOutput.txt
+./das_client.py --query="file run=256188 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256188
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256195 >& curlOutput.txt
+./das_client.py --query="file run=256195 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256195
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256197 >& curlOutput.txt
+./das_client.py --query="file run=256197 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256197
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256213 >& curlOutput.txt
+./das_client.py --query="file run=256213 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256213
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256214 >& curlOutput.txt
+./das_client.py --query="file run=256214 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256214
+Number of events:  866
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256215 >& curlOutput.txt
+./das_client.py --query="file run=256215 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256215
+Number of events:  4567
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256216 >& curlOutput.txt
+./das_client.py --query="file run=256216 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256216
+Number of events:  5507
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256217 >& curlOutput.txt
+./das_client.py --query="file run=256217 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256217
+Number of files 416
+Number of events 444770
+Job Finished 
+Job Finished Wed Sep  9 23:07:13 CEST 2015
+New Job Thu Sep 10 00:05:34 CEST 2015
+Start New Job Thu Sep 10 00:05:38 2015
+256217
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256217'> RunNumbers.txt
+Job Finished Thu Sep 10 00:05:47 CEST 2015
+New Job Thu Sep 10 01:05:31 CEST 2015
+Start New Job Thu Sep 10 01:05:34 2015
+256217
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256217'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256233 >& curlOutput.txt
+./das_client.py --query="file run=256233 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256233
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256234 >& curlOutput.txt
+./das_client.py --query="file run=256234 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256234
+Number of events:  2000
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256235 >& curlOutput.txt
+./das_client.py --query="file run=256235 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256235
+Number of events:  17317
+Job Finished Thu Sep 10 01:05:57 CEST 2015
+New Job Thu Sep 10 02:05:17 CEST 2015
+Job <696068692> is submitted to queue <8nh>.
+Start New Job Thu Sep 10 02:05:18 2015
+256217
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256217'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256233 >& curlOutput.txt
+./das_client.py --query="file run=256233 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256233
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256234 >& curlOutput.txt
+./das_client.py --query="file run=256234 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256234
+Number of events:  2000
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256235 >& curlOutput.txt
+./das_client.py --query="file run=256235 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256235
+Number of files 60
+Number of events 52288
+Job Finished 
+Job Finished Thu Sep 10 02:05:58 CEST 2015
+New Job Thu Sep 10 03:06:01 CEST 2015
+Job <696074299> is submitted to queue <8nh>.
+Start New Job Thu Sep 10 03:06:02 2015
+256235
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256235'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256236 >& curlOutput.txt
+./das_client.py --query="file run=256236 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256236
+Number of events:  17607
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256237 >& curlOutput.txt
+./das_client.py --query="file run=256237 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256237
+Number of files 54
+Number of events 57691
+Job Finished 
+Job Finished Thu Sep 10 03:06:38 CEST 2015
+New Job Thu Sep 10 04:05:35 CEST 2015
+Start New Job Thu Sep 10 04:05:36 2015
+256237
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256237'> RunNumbers.txt
+Job Finished Thu Sep 10 04:05:45 CEST 2015
+New Job Thu Sep 10 05:05:50 CEST 2015
+Start New Job Thu Sep 10 05:05:51 2015
+256237
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256237'> RunNumbers.txt
+Job Finished Thu Sep 10 05:05:54 CEST 2015
+New Job Thu Sep 10 06:05:51 CEST 2015
+Start New Job Thu Sep 10 06:05:52 2015
+256237
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256237'> RunNumbers.txt
+Job Finished Thu Sep 10 06:06:00 CEST 2015
+New Job Thu Sep 10 07:05:21 CEST 2015
+Start New Job Thu Sep 10 07:05:24 2015
+256237
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256237'> RunNumbers.txt
+Job Finished Thu Sep 10 07:05:29 CEST 2015
+New Job Thu Sep 10 08:05:51 CEST 2015
+Job <696102657> is submitted to queue <8nh>.
+Start New Job Thu Sep 10 08:05:52 2015
+256237
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256237'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256245 >& curlOutput.txt
+./das_client.py --query="file run=256245 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256245
+Number of files 39
+Number of events 26081
+Job Finished 
+Job Finished Thu Sep 10 08:06:22 CEST 2015
+New Job Thu Sep 10 09:05:33 CEST 2015
+Start New Job Thu Sep 10 09:05:35 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 09:05:39 CEST 2015
+New Job Thu Sep 10 10:05:56 CEST 2015
+Start New Job Thu Sep 10 10:05:56 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 10:06:00 CEST 2015
+New Job Thu Sep 10 11:06:06 CEST 2015
+Start New Job Thu Sep 10 11:06:06 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 11:06:10 CEST 2015
+New Job Thu Sep 10 12:05:31 CEST 2015
+Start New Job Thu Sep 10 12:05:31 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 12:05:39 CEST 2015
+New Job Thu Sep 10 13:06:08 CEST 2015
+Start New Job Thu Sep 10 13:06:10 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 13:06:18 CEST 2015
+New Job Thu Sep 10 14:05:22 CEST 2015
+Start New Job Thu Sep 10 14:05:23 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 14:05:31 CEST 2015
+New Job Thu Sep 10 15:05:14 CEST 2015
+Start New Job Thu Sep 10 15:05:28 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 15:05:29 CEST 2015
+New Job Thu Sep 10 16:05:23 CEST 2015
+Start New Job Thu Sep 10 16:05:24 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 16:05:26 CEST 2015
+New Job Thu Sep 10 17:05:35 CEST 2015
+Start New Job Thu Sep 10 17:05:36 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 17:05:38 CEST 2015
+New Job Thu Sep 10 18:05:19 CEST 2015
+Start New Job Thu Sep 10 18:05:20 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+Job Finished Thu Sep 10 18:05:22 CEST 2015
+New Job Thu Sep 10 19:05:31 CEST 2015
+Start New Job Thu Sep 10 19:05:31 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Thu Sep 10 19:06:07 CEST 2015
+New Job Thu Sep 10 20:06:02 CEST 2015
+Start New Job Thu Sep 10 20:06:02 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Thu Sep 10 20:06:31 CEST 2015
+New Job Thu Sep 10 21:05:34 CEST 2015
+Start New Job Thu Sep 10 21:05:35 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Thu Sep 10 21:06:11 CEST 2015
+New Job Thu Sep 10 22:05:55 CEST 2015
+Start New Job Thu Sep 10 22:05:55 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Thu Sep 10 22:06:26 CEST 2015
+New Job Thu Sep 10 23:05:33 CEST 2015
+Start New Job Thu Sep 10 23:05:34 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Thu Sep 10 23:06:01 CEST 2015
+New Job Fri Sep 11 00:05:22 CEST 2015
+Start New Job Fri Sep 11 00:05:30 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 00:06:00 CEST 2015
+New Job Fri Sep 11 01:05:51 CEST 2015
+Start New Job Fri Sep 11 01:05:52 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 01:06:17 CEST 2015
+New Job Fri Sep 11 02:05:38 CEST 2015
+Start New Job Fri Sep 11 02:05:39 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 02:06:15 CEST 2015
+New Job Fri Sep 11 03:05:28 CEST 2015
+Start New Job Fri Sep 11 03:05:29 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 03:06:02 CEST 2015
+New Job Fri Sep 11 04:05:17 CEST 2015
+Start New Job Fri Sep 11 04:05:20 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 04:05:51 CEST 2015
+New Job Fri Sep 11 05:05:38 CEST 2015
+Start New Job Fri Sep 11 05:05:39 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 05:06:15 CEST 2015
+New Job Fri Sep 11 06:05:42 CEST 2015
+Start New Job Fri Sep 11 06:05:43 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 06:06:06 CEST 2015
+New Job Fri Sep 11 07:05:57 CEST 2015
+Start New Job Fri Sep 11 07:05:58 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 07:06:27 CEST 2015
+New Job Fri Sep 11 08:05:43 CEST 2015
+Start New Job Fri Sep 11 08:05:46 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 08:06:14 CEST 2015
+New Job Fri Sep 11 09:05:09 CEST 2015
+Start New Job Fri Sep 11 09:05:10 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 09:05:38 CEST 2015
+New Job Fri Sep 11 10:05:17 CEST 2015
+Start New Job Fri Sep 11 10:05:18 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 10:05:51 CEST 2015
+New Job Fri Sep 11 11:06:06 CEST 2015
+Start New Job Fri Sep 11 11:06:07 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 11:06:39 CEST 2015
+New Job Fri Sep 11 12:05:35 CEST 2015
+Start New Job Fri Sep 11 12:05:36 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 12:06:11 CEST 2015
+New Job Fri Sep 11 13:05:39 CEST 2015
+Start New Job Fri Sep 11 13:05:40 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 13:06:11 CEST 2015
+New Job Fri Sep 11 14:05:31 CEST 2015
+Start New Job Fri Sep 11 14:05:32 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 14:05:59 CEST 2015
+New Job Fri Sep 11 15:05:48 CEST 2015
+Start New Job Fri Sep 11 15:05:49 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 15:06:13 CEST 2015
+New Job Fri Sep 11 16:05:24 CEST 2015
+Start New Job Fri Sep 11 16:05:24 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 16:05:53 CEST 2015
+New Job Fri Sep 11 17:06:05 CEST 2015
+Start New Job Fri Sep 11 17:06:06 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 17:06:32 CEST 2015
+New Job Fri Sep 11 18:06:03 CEST 2015
+Start New Job Fri Sep 11 18:06:09 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 18:06:45 CEST 2015
+New Job Fri Sep 11 19:05:50 CEST 2015
+Start New Job Fri Sep 11 19:05:51 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+Job Finished Fri Sep 11 19:06:23 CEST 2015
+New Job Fri Sep 11 20:05:18 CEST 2015
+Start New Job Fri Sep 11 20:05:19 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256346 >& curlOutput.txt
+./das_client.py --query="file run=256346 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256346
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256347 >& curlOutput.txt
+./das_client.py --query="file run=256347 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256347
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256348 >& curlOutput.txt
+./das_client.py --query="file run=256348 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256348
+Number of events:  14885
+Job Finished Fri Sep 11 20:05:58 CEST 2015
+New Job Fri Sep 11 21:05:57 CEST 2015
+Job <696722022> is submitted to queue <8nh>.
+Start New Job Fri Sep 11 21:05:58 2015
+256245
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256245'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256268 >& curlOutput.txt
+./das_client.py --query="file run=256268 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256268
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256269 >& curlOutput.txt
+./das_client.py --query="file run=256269 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256269
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256270 >& curlOutput.txt
+./das_client.py --query="file run=256270 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256270
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256273 >& curlOutput.txt
+./das_client.py --query="file run=256273 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256273
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256346 >& curlOutput.txt
+./das_client.py --query="file run=256346 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256346
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256347 >& curlOutput.txt
+./das_client.py --query="file run=256347 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256347
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256348 >& curlOutput.txt
+./das_client.py --query="file run=256348 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256348
+Number of files 54
+Number of events 59603
+Job Finished 
+Job Finished Fri Sep 11 21:07:10 CEST 2015
+New Job Fri Sep 11 22:05:52 CEST 2015
+Job <696729020> is submitted to queue <8nh>.
+Start New Job Fri Sep 11 22:05:53 2015
+256348
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256348'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256349 >& curlOutput.txt
+./das_client.py --query="file run=256349 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 256349
+Number of events:  4538
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256350 >& curlOutput.txt
+./das_client.py --query="file run=256350 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256350
+Number of files 99
+Number of events 100420
+./das_client.py --query="run=256350 | grep run.bfield" --limit=0
+Job Finished 
+Job Finished Fri Sep 11 22:06:45 CEST 2015
+New Job Fri Sep 11 23:05:57 CEST 2015
+Start New Job Fri Sep 11 23:05:57 2015
+256350
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256350'> RunNumbers.txt
+Job Finished Fri Sep 11 23:06:01 CEST 2015
+New Job Sat Sep 12 00:05:26 CEST 2015
+Start New Job Sat Sep 12 00:05:28 2015
+256350
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256350'> RunNumbers.txt
+Job Finished Sat Sep 12 00:05:30 CEST 2015
+New Job Sat Sep 12 01:05:30 CEST 2015
+Job <696771638> is submitted to queue <8nh>.
+Start New Job Sat Sep 12 01:05:31 2015
+256350
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256350'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256353 >& curlOutput.txt
+./das_client.py --query="file run=256353 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256353
+Number of files 42
+Number of events 42958
+./das_client.py --query="run=256353 | grep run.bfield" --limit=0
+Job Finished 
+Job Finished Sat Sep 12 01:06:13 CEST 2015
+New Job Sat Sep 12 02:05:52 CEST 2015
+Start New Job Sat Sep 12 02:05:53 2015
+256353
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256353'> RunNumbers.txt
+Job Finished Sat Sep 12 02:05:55 CEST 2015
+New Job Sat Sep 12 03:05:57 CEST 2015
+Start New Job Sat Sep 12 03:05:58 2015
+256353
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256353'> RunNumbers.txt
+Job Finished Sat Sep 12 03:06:01 CEST 2015
+New Job Sat Sep 12 04:05:40 CEST 2015
+Start New Job Sat Sep 12 04:05:42 2015
+256353
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256353'> RunNumbers.txt
+Job Finished Sat Sep 12 04:05:44 CEST 2015
+New Job Sat Sep 12 05:05:10 CEST 2015
+Start New Job Sat Sep 12 05:05:11 2015
+256353
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256353'> RunNumbers.txt
+Job Finished Sat Sep 12 05:05:13 CEST 2015
+New Job Sat Sep 12 06:05:34 CEST 2015
+Start New Job Sat Sep 12 06:05:35 2015
+256353
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256353'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=256355 >& curlOutput.txt
+./das_client.py --query="file run=256355 dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+256355
+Number of files 61
+Number of events 67062
+./das_client.py --query="run=256355 | grep run.bfield" --limit=0
+Job Finished Sat Sep 12 06:05:56 CEST 2015
+New Job Sat Sep 12 07:05:42 CEST 2015
+Start New Job Sat Sep 12 07:05:44 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 07:05:46 CEST 2015
+New Job Sat Sep 12 08:05:27 CEST 2015
+Start New Job Sat Sep 12 08:05:28 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 08:05:36 CEST 2015
+New Job Sat Sep 12 09:05:52 CEST 2015
+Start New Job Sat Sep 12 09:05:53 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 09:05:57 CEST 2015
+New Job Sat Sep 12 10:05:17 CEST 2015
+Start New Job Sat Sep 12 10:05:27 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 10:05:29 CEST 2015
+New Job Sat Sep 12 11:05:48 CEST 2015
+Start New Job Sat Sep 12 11:05:49 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 11:05:51 CEST 2015
+New Job Sat Sep 12 12:05:23 CEST 2015
+Start New Job Sat Sep 12 12:05:24 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 12:05:26 CEST 2015
+New Job Sat Sep 12 13:05:46 CEST 2015
+Start New Job Sat Sep 12 13:05:47 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 13:05:51 CEST 2015
+New Job Sat Sep 12 14:05:17 CEST 2015
+Start New Job Sat Sep 12 14:05:18 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 14:05:22 CEST 2015
+New Job Sat Sep 12 15:05:55 CEST 2015
+Start New Job Sat Sep 12 15:05:55 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 15:05:59 CEST 2015
+New Job Sat Sep 12 16:05:42 CEST 2015
+Start New Job Sat Sep 12 16:05:43 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 16:05:45 CEST 2015
+New Job Sat Sep 12 17:05:12 CEST 2015
+Start New Job Sat Sep 12 17:05:12 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 17:05:14 CEST 2015
+New Job Sat Sep 12 18:05:20 CEST 2015
+Start New Job Sat Sep 12 18:05:22 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 18:05:23 CEST 2015
+New Job Sat Sep 12 19:05:26 CEST 2015
+Start New Job Sat Sep 12 19:05:27 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 19:05:28 CEST 2015
+New Job Sat Sep 12 20:05:32 CEST 2015
+Start New Job Sat Sep 12 20:05:32 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 20:05:36 CEST 2015
+New Job Sat Sep 12 21:05:57 CEST 2015
+Start New Job Sat Sep 12 21:05:58 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 21:06:07 CEST 2015
+New Job Sat Sep 12 22:05:18 CEST 2015
+Start New Job Sat Sep 12 22:05:18 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 22:05:22 CEST 2015
+New Job Sat Sep 12 23:06:04 CEST 2015
+Start New Job Sat Sep 12 23:06:05 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sat Sep 12 23:06:09 CEST 2015
+New Job Sun Sep 13 00:05:26 CEST 2015
+Start New Job Sun Sep 13 00:05:27 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 00:05:35 CEST 2015
+New Job Sun Sep 13 01:05:49 CEST 2015
+Start New Job Sun Sep 13 01:05:52 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 01:05:53 CEST 2015
+New Job Sun Sep 13 02:05:37 CEST 2015
+Start New Job Sun Sep 13 02:05:37 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 02:05:39 CEST 2015
+New Job Sun Sep 13 03:05:24 CEST 2015
+Start New Job Sun Sep 13 03:05:26 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 03:05:30 CEST 2015
+New Job Sun Sep 13 04:05:46 CEST 2015
+Start New Job Sun Sep 13 04:05:46 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 04:05:50 CEST 2015
+New Job Sun Sep 13 05:05:43 CEST 2015
+Start New Job Sun Sep 13 05:05:44 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 05:05:46 CEST 2015
+New Job Sun Sep 13 06:05:56 CEST 2015
+Start New Job Sun Sep 13 06:05:57 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 06:06:01 CEST 2015
+New Job Sun Sep 13 07:05:12 CEST 2015
+Start New Job Sun Sep 13 07:05:13 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 07:05:17 CEST 2015
+New Job Sun Sep 13 08:05:09 CEST 2015
+Start New Job Sun Sep 13 08:05:10 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 08:05:14 CEST 2015
+New Job Sun Sep 13 09:06:03 CEST 2015
+Start New Job Sun Sep 13 09:06:04 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 09:06:09 CEST 2015
+New Job Sun Sep 13 10:05:50 CEST 2015
+Start New Job Sun Sep 13 10:05:51 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 10:05:55 CEST 2015
+New Job Sun Sep 13 11:05:48 CEST 2015
+Start New Job Sun Sep 13 11:05:50 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 11:05:52 CEST 2015
+New Job Sun Sep 13 12:06:05 CEST 2015
+Start New Job Sun Sep 13 12:06:07 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 12:06:11 CEST 2015
+New Job Sun Sep 13 13:05:14 CEST 2015
+Start New Job Sun Sep 13 13:05:15 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 13:05:19 CEST 2015
+New Job Sun Sep 13 14:05:58 CEST 2015
+Start New Job Sun Sep 13 14:05:59 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 14:06:02 CEST 2015
+New Job Sun Sep 13 15:05:26 CEST 2015
+Start New Job Sun Sep 13 15:05:27 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 15:05:31 CEST 2015
+New Job Sun Sep 13 16:05:33 CEST 2015
+Start New Job Sun Sep 13 16:05:34 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 16:05:38 CEST 2015
+New Job Sun Sep 13 17:05:20 CEST 2015
+Start New Job Sun Sep 13 17:05:22 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 17:05:23 CEST 2015
+New Job Sun Sep 13 18:05:40 CEST 2015
+Start New Job Sun Sep 13 18:05:41 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 18:05:45 CEST 2015
+New Job Sun Sep 13 19:06:01 CEST 2015
+Start New Job Sun Sep 13 19:06:02 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 19:06:04 CEST 2015
+New Job Sun Sep 13 20:06:05 CEST 2015
+Start New Job Sun Sep 13 20:06:06 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 20:06:10 CEST 2015
+New Job Sun Sep 13 21:06:01 CEST 2015
+Start New Job Sun Sep 13 21:06:02 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 21:06:04 CEST 2015
+New Job Sun Sep 13 22:05:32 CEST 2015
+Start New Job Sun Sep 13 22:05:37 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 22:05:45 CEST 2015
+New Job Sun Sep 13 23:05:59 CEST 2015
+Start New Job Sun Sep 13 23:05:59 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Sun Sep 13 23:06:03 CEST 2015
+New Job Mon Sep 14 00:06:03 CEST 2015
+Start New Job Mon Sep 14 00:06:03 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 00:06:07 CEST 2015
+New Job Mon Sep 14 01:05:16 CEST 2015
+Start New Job Mon Sep 14 01:05:16 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 01:05:18 CEST 2015
+New Job Mon Sep 14 02:05:12 CEST 2015
+Start New Job Mon Sep 14 02:05:13 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 02:05:17 CEST 2015
+New Job Mon Sep 14 03:05:40 CEST 2015
+Start New Job Mon Sep 14 03:05:42 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 03:05:44 CEST 2015
+New Job Mon Sep 14 04:06:04 CEST 2015
+Start New Job Mon Sep 14 04:06:05 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 04:06:14 CEST 2015
+New Job Mon Sep 14 05:05:45 CEST 2015
+Start New Job Mon Sep 14 05:05:47 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 05:05:55 CEST 2015
+New Job Mon Sep 14 06:06:05 CEST 2015
+Start New Job Mon Sep 14 06:06:05 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 06:06:09 CEST 2015
+New Job Mon Sep 14 07:05:14 CEST 2015
+Start New Job Mon Sep 14 07:05:16 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 07:05:20 CEST 2015
+New Job Mon Sep 14 08:06:04 CEST 2015
+Start New Job Mon Sep 14 08:06:04 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 08:06:06 CEST 2015
+New Job Mon Sep 14 09:05:52 CEST 2015
+Start New Job Mon Sep 14 09:05:52 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 09:05:56 CEST 2015
+New Job Mon Sep 14 10:06:07 CEST 2015
+Start New Job Mon Sep 14 10:06:08 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 10:06:12 CEST 2015
+New Job Mon Sep 14 11:05:38 CEST 2015
+Start New Job Mon Sep 14 11:05:38 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 11:05:42 CEST 2015
+New Job Mon Sep 14 12:05:17 CEST 2015
+Start New Job Mon Sep 14 12:05:18 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 12:05:19 CEST 2015
+New Job Mon Sep 14 13:05:55 CEST 2015
+Start New Job Mon Sep 14 13:05:55 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 13:05:59 CEST 2015
+New Job Mon Sep 14 14:05:27 CEST 2015
+Start New Job Mon Sep 14 14:05:27 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 14:05:32 CEST 2015
+New Job Mon Sep 14 15:06:00 CEST 2015
+Start New Job Mon Sep 14 15:06:02 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 15:06:06 CEST 2015
+New Job Mon Sep 14 16:05:46 CEST 2015
+Start New Job Mon Sep 14 16:05:47 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 16:05:48 CEST 2015
+New Job Mon Sep 14 17:05:23 CEST 2015
+Start New Job Mon Sep 14 17:05:24 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 17:05:33 CEST 2015
+New Job Mon Sep 14 18:05:51 CEST 2015
+Start New Job Mon Sep 14 18:05:52 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 18:05:54 CEST 2015
+New Job Mon Sep 14 19:05:25 CEST 2015
+Start New Job Mon Sep 14 19:05:25 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 19:05:34 CEST 2015
+New Job Mon Sep 14 20:05:42 CEST 2015
+Start New Job Mon Sep 14 20:05:42 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 20:05:47 CEST 2015
+New Job Mon Sep 14 21:05:27 CEST 2015
+Start New Job Mon Sep 14 21:05:27 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 21:05:31 CEST 2015
+New Job Mon Sep 14 22:05:59 CEST 2015
+Start New Job Mon Sep 14 22:06:00 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 22:06:05 CEST 2015
+New Job Mon Sep 14 23:05:56 CEST 2015
+Start New Job Mon Sep 14 23:05:57 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Mon Sep 14 23:06:02 CEST 2015
+New Job Tue Sep 15 00:05:14 CEST 2015
+Start New Job Tue Sep 15 00:05:16 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 00:05:25 CEST 2015
+New Job Tue Sep 15 01:05:56 CEST 2015
+Start New Job Tue Sep 15 01:05:59 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 01:06:03 CEST 2015
+New Job Tue Sep 15 02:05:09 CEST 2015
+Start New Job Tue Sep 15 02:05:10 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 02:05:11 CEST 2015
+New Job Tue Sep 15 03:05:49 CEST 2015
+Start New Job Tue Sep 15 03:05:51 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 03:05:55 CEST 2015
+New Job Tue Sep 15 04:05:18 CEST 2015
+Start New Job Tue Sep 15 04:05:19 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 04:05:23 CEST 2015
+New Job Tue Sep 15 05:06:00 CEST 2015
+Start New Job Tue Sep 15 05:06:01 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 05:06:06 CEST 2015
+New Job Tue Sep 15 06:05:26 CEST 2015
+Start New Job Tue Sep 15 06:05:28 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 06:05:31 CEST 2015
+New Job Tue Sep 15 07:05:21 CEST 2015
+Start New Job Tue Sep 15 07:05:22 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 07:05:26 CEST 2015
+New Job Tue Sep 15 08:05:48 CEST 2015
+Start New Job Tue Sep 15 08:05:50 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 08:05:53 CEST 2015
+New Job Tue Sep 15 09:05:45 CEST 2015
+Start New Job Tue Sep 15 09:05:54 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 09:06:03 CEST 2015
+New Job Tue Sep 15 10:05:36 CEST 2015
+Start New Job Tue Sep 15 10:05:37 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 10:05:42 CEST 2015
+New Job Tue Sep 15 11:05:19 CEST 2015
+Start New Job Tue Sep 15 11:05:19 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 11:05:23 CEST 2015
+New Job Tue Sep 15 12:05:57 CEST 2015
+Start New Job Tue Sep 15 12:06:04 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 12:06:06 CEST 2015
+New Job Tue Sep 15 13:05:17 CEST 2015
+Start New Job Tue Sep 15 13:05:17 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 13:05:19 CEST 2015
+New Job Tue Sep 15 14:06:09 CEST 2015
+Start New Job Tue Sep 15 14:06:10 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 14:06:12 CEST 2015
+New Job Tue Sep 15 15:05:08 CEST 2015
+Start New Job Tue Sep 15 15:05:09 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 15:05:17 CEST 2015
+New Job Tue Sep 15 16:05:30 CEST 2015
+Start New Job Tue Sep 15 16:05:31 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 16:05:35 CEST 2015
+New Job Tue Sep 15 17:06:02 CEST 2015
+Start New Job Tue Sep 15 17:06:03 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 17:06:11 CEST 2015
+New Job Tue Sep 15 18:05:40 CEST 2015
+Start New Job Tue Sep 15 18:05:41 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 18:05:45 CEST 2015
+New Job Tue Sep 15 19:05:59 CEST 2015
+Start New Job Tue Sep 15 19:06:00 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 19:06:04 CEST 2015
+New Job Tue Sep 15 20:05:39 CEST 2015
+Start New Job Tue Sep 15 20:05:40 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 20:05:48 CEST 2015
+New Job Tue Sep 15 21:05:07 CEST 2015
+Start New Job Tue Sep 15 21:05:08 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 21:05:10 CEST 2015
+New Job Tue Sep 15 22:05:48 CEST 2015
+Start New Job Tue Sep 15 22:05:49 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 22:05:53 CEST 2015
+New Job Tue Sep 15 23:05:43 CEST 2015
+Start New Job Tue Sep 15 23:05:43 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Tue Sep 15 23:05:47 CEST 2015
+New Job Wed Sep 16 00:05:56 CEST 2015
+Start New Job Wed Sep 16 00:05:58 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 00:06:06 CEST 2015
+New Job Wed Sep 16 01:05:14 CEST 2015
+Start New Job Wed Sep 16 01:05:15 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 01:05:17 CEST 2015
+New Job Wed Sep 16 02:05:44 CEST 2015
+Start New Job Wed Sep 16 02:05:44 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 02:05:48 CEST 2015
+New Job Wed Sep 16 03:05:25 CEST 2015
+Start New Job Wed Sep 16 03:05:26 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 03:05:27 CEST 2015
+New Job Wed Sep 16 04:05:57 CEST 2015
+Start New Job Wed Sep 16 04:05:58 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 04:06:00 CEST 2015
+New Job Wed Sep 16 05:05:45 CEST 2015
+Start New Job Wed Sep 16 05:05:47 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 05:05:51 CEST 2015
+New Job Wed Sep 16 06:05:48 CEST 2015
+Start New Job Wed Sep 16 06:05:49 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 06:05:53 CEST 2015
+New Job Wed Sep 16 07:05:41 CEST 2015
+Start New Job Wed Sep 16 07:05:41 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 07:05:45 CEST 2015
+New Job Wed Sep 16 08:05:28 CEST 2015
+Start New Job Wed Sep 16 08:05:29 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 08:05:31 CEST 2015
+New Job Wed Sep 16 09:05:11 CEST 2015
+Start New Job Wed Sep 16 09:05:11 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 09:05:15 CEST 2015
+New Job Wed Sep 16 10:05:43 CEST 2015
+Start New Job Wed Sep 16 10:05:45 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 10:05:49 CEST 2015
+New Job Wed Sep 16 11:06:04 CEST 2015
+Start New Job Wed Sep 16 11:06:04 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 11:06:13 CEST 2015
+New Job Wed Sep 16 12:05:39 CEST 2015
+Start New Job Wed Sep 16 12:05:40 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 12:05:42 CEST 2015
+New Job Wed Sep 16 13:06:02 CEST 2015
+Start New Job Wed Sep 16 13:06:03 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 13:06:05 CEST 2015
+New Job Wed Sep 16 14:05:39 CEST 2015
+Start New Job Wed Sep 16 14:05:40 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 14:05:44 CEST 2015
+New Job Wed Sep 16 15:05:07 CEST 2015
+Start New Job Wed Sep 16 15:05:08 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 15:05:10 CEST 2015
+New Job Wed Sep 16 16:05:42 CEST 2015
+Start New Job Wed Sep 16 16:05:43 2015
+256355
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>256355'> RunNumbers.txt
+Job Finished Wed Sep 16 16:05:51 CEST 2015
+New Job Tue Sep 22 17:05:19 CEST 2015
+Start New Job Tue Sep 22 17:05:20 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Tue Sep 22 17:05:28 CEST 2015
+New Job Tue Sep 22 18:06:00 CEST 2015
+Start New Job Tue Sep 22 18:06:01 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Tue Sep 22 18:06:03 CEST 2015
+New Job Tue Sep 22 19:05:54 CEST 2015
+Start New Job Tue Sep 22 19:05:55 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Tue Sep 22 19:05:57 CEST 2015
+New Job Tue Sep 22 20:05:14 CEST 2015
+Start New Job Tue Sep 22 20:05:18 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Tue Sep 22 20:05:22 CEST 2015
+New Job Tue Sep 22 21:05:56 CEST 2015
+Start New Job Tue Sep 22 21:05:57 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Tue Sep 22 21:05:59 CEST 2015
+New Job Tue Sep 22 22:05:50 CEST 2015
+Start New Job Tue Sep 22 22:05:51 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Tue Sep 22 22:05:55 CEST 2015
+New Job Tue Sep 22 23:05:32 CEST 2015
+Start New Job Tue Sep 22 23:05:33 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Tue Sep 22 23:05:37 CEST 2015
+New Job Wed Sep 23 00:05:47 CEST 2015
+Start New Job Wed Sep 23 00:05:48 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 00:05:52 CEST 2015
+New Job Wed Sep 23 01:05:31 CEST 2015
+Start New Job Wed Sep 23 01:05:32 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 01:05:36 CEST 2015
+New Job Wed Sep 23 02:05:44 CEST 2015
+Start New Job Wed Sep 23 02:05:45 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 02:05:49 CEST 2015
+New Job Wed Sep 23 03:05:22 CEST 2015
+Start New Job Wed Sep 23 03:05:23 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 03:05:26 CEST 2015
+New Job Wed Sep 23 04:05:47 CEST 2015
+Start New Job Wed Sep 23 04:05:48 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 04:05:51 CEST 2015
+New Job Wed Sep 23 05:05:48 CEST 2015
+Start New Job Wed Sep 23 05:05:52 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 05:05:56 CEST 2015
+New Job Wed Sep 23 06:05:33 CEST 2015
+Start New Job Wed Sep 23 06:05:36 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 06:05:38 CEST 2015
+New Job Wed Sep 23 07:05:34 CEST 2015
+Start New Job Wed Sep 23 07:05:35 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 07:05:36 CEST 2015
+New Job Wed Sep 23 08:05:31 CEST 2015
+Start New Job Wed Sep 23 08:05:47 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 08:05:51 CEST 2015
+New Job Wed Sep 23 09:05:43 CEST 2015
+Start New Job Wed Sep 23 09:05:50 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 09:05:52 CEST 2015
+New Job Wed Sep 23 10:05:17 CEST 2015
+Start New Job Wed Sep 23 10:05:24 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 10:05:27 CEST 2015
+New Job Wed Sep 23 11:06:07 CEST 2015
+Start New Job Wed Sep 23 11:06:08 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 11:06:12 CEST 2015
+New Job Wed Sep 23 12:05:50 CEST 2015
+Start New Job Wed Sep 23 12:05:51 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 12:05:55 CEST 2015
+New Job Wed Sep 23 13:05:39 CEST 2015
+Start New Job Wed Sep 23 13:05:40 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 13:05:42 CEST 2015
+New Job Wed Sep 23 14:06:02 CEST 2015
+Start New Job Wed Sep 23 14:06:03 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 14:06:07 CEST 2015
+New Job Wed Sep 23 15:05:29 CEST 2015
+Start New Job Wed Sep 23 15:05:30 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 15:05:34 CEST 2015
+New Job Wed Sep 23 16:05:12 CEST 2015
+Start New Job Wed Sep 23 16:05:13 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 16:05:17 CEST 2015
+New Job Wed Sep 23 17:05:37 CEST 2015
+Start New Job Wed Sep 23 17:05:38 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 17:05:41 CEST 2015
+New Job Wed Sep 23 18:05:34 CEST 2015
+Start New Job Wed Sep 23 18:05:35 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 18:05:39 CEST 2015
+New Job Wed Sep 23 19:05:27 CEST 2015
+Start New Job Wed Sep 23 19:05:28 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 19:05:29 CEST 2015
+New Job Wed Sep 23 20:06:05 CEST 2015
+Start New Job Wed Sep 23 20:06:09 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 20:06:16 CEST 2015
+New Job Wed Sep 23 21:05:39 CEST 2015
+Start New Job Wed Sep 23 21:05:39 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 21:05:43 CEST 2015
+New Job Wed Sep 23 22:05:43 CEST 2015
+Start New Job Wed Sep 23 22:05:44 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 22:05:46 CEST 2015
+New Job Wed Sep 23 23:05:22 CEST 2015
+Start New Job Wed Sep 23 23:05:23 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Wed Sep 23 23:05:25 CEST 2015
+New Job Thu Sep 24 00:05:23 CEST 2015
+Start New Job Thu Sep 24 00:05:25 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 00:05:29 CEST 2015
+New Job Thu Sep 24 01:05:49 CEST 2015
+Start New Job Thu Sep 24 01:07:21 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 01:07:47 CEST 2015
+New Job Thu Sep 24 02:05:15 CEST 2015
+Start New Job Thu Sep 24 02:05:17 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 02:05:21 CEST 2015
+New Job Thu Sep 24 03:05:50 CEST 2015
+Start New Job Thu Sep 24 03:05:52 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 03:05:56 CEST 2015
+New Job Thu Sep 24 04:05:16 CEST 2015
+Start New Job Thu Sep 24 04:05:17 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 04:05:25 CEST 2015
+New Job Thu Sep 24 05:05:24 CEST 2015
+Start New Job Thu Sep 24 05:05:25 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 05:05:29 CEST 2015
+New Job Thu Sep 24 06:05:19 CEST 2015
+Start New Job Thu Sep 24 06:05:20 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 06:05:24 CEST 2015
+New Job Thu Sep 24 07:05:40 CEST 2015
+Start New Job Thu Sep 24 07:05:44 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 07:05:48 CEST 2015
+New Job Thu Sep 24 08:05:25 CEST 2015
+Start New Job Thu Sep 24 08:05:25 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 08:05:29 CEST 2015
+New Job Thu Sep 24 09:05:37 CEST 2015
+Start New Job Thu Sep 24 09:05:38 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 09:05:54 CEST 2015
+New Job Thu Sep 24 10:05:45 CEST 2015
+Start New Job Thu Sep 24 10:05:46 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 10:05:50 CEST 2015
+New Job Thu Sep 24 11:05:49 CEST 2015
+Start New Job Thu Sep 24 11:05:50 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 11:05:54 CEST 2015
+New Job Thu Sep 24 12:05:40 CEST 2015
+Start New Job Thu Sep 24 12:05:42 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 12:05:47 CEST 2015
+New Job Thu Sep 24 13:06:05 CEST 2015
+Start New Job Thu Sep 24 13:06:27 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 13:06:31 CEST 2015
+New Job Thu Sep 24 14:05:21 CEST 2015
+Start New Job Thu Sep 24 14:05:21 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 14:05:25 CEST 2015
+New Job Thu Sep 24 15:06:04 CEST 2015
+Start New Job Thu Sep 24 15:06:04 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 15:06:08 CEST 2015
+New Job Thu Sep 24 16:05:27 CEST 2015
+Start New Job Thu Sep 24 16:05:28 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015C-TkAlMinBias-Express-v2/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+Job Finished Thu Sep 24 16:05:31 CEST 2015
+New Job Tue Oct 27 16:05:48 CET 2015
+Job <713774173> is submitted to queue <8nh>.
+Start New Job Tue Oct 27 16:05:48 2015
+257044
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>257044'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=259950 >& curlOutput.txt
+./das_client.py --query="file run=259950 dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 259950
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=259954 >& curlOutput.txt
+./das_client.py --query="file run=259954 dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 259954
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=259967 >& curlOutput.txt
+./das_client.py --query="file run=259967 dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 259967
+Number of events:  0
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=260039 >& curlOutput.txt
+./das_client.py --query="file run=260039 dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+260039
+Number of files 607
+Number of events 617747
+./das_client.py --query="run=260039 | grep run.bfield" --limit=0
+Job Finished 
+Job Finished Tue Oct 27 16:06:46 CET 2015
+New Job Tue Oct 27 17:06:08 CET 2015
+Job <713798535> is submitted to queue <8nh>.
+Start New Job Tue Oct 27 17:06:08 2015
+260039
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>260039'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=260041 >& curlOutput.txt
+./das_client.py --query="file run=260041 dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+260041
+Number of files 74
+Number of events 90267
+./das_client.py --query="run=260041 | grep run.bfield" --limit=0
+Job Finished 
+Job Finished Tue Oct 27 17:06:39 CET 2015
+New Job Tue Oct 27 18:06:05 CET 2015
+Job <713823127> is submitted to queue <cmsexpress>.
+Start New Job Tue Oct 27 18:06:06 2015
+260041
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>260041'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=260043 >& curlOutput.txt
+./das_client.py --query="file run=260043 dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+260043
+Number of files 418
+Number of events 516965
+./das_client.py --query="run=260043 | grep run.bfield" --limit=0
+Job Finished 
+Job Finished Tue Oct 27 18:06:42 CET 2015
+New Job Tue Oct 27 19:05:47 CET 2015
+Job <713842336> is submitted to queue <cmsexpress>.
+Start New Job Tue Oct 27 19:05:47 2015
+260043
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>260043'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=260061 >& curlOutput.txt
+./das_client.py --query="file run=260061 dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+Fewer than 20,000 events in run, alignment not run for run 260061
+Number of events:  15617
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=260062 >& curlOutput.txt
+./das_client.py --query="file run=260062 dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+260062
+Number of files 22
+Number of events 35577
+./das_client.py --query="run=260062 | grep run.bfield" --limit=0
+Job Finished 
+Job Finished Tue Oct 27 19:06:24 CET 2015
+New Job Tue Oct 27 20:06:02 CET 2015
+Job <713864891> is submitted to queue <cmsexpress>.
+Start New Job Tue Oct 27 20:06:02 2015
+260062
+./das_client.py --query="run dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep run.run_number | sort run.run_number" --limit=0 | awk '$1>260062'> RunNumbers.txt
+curl -k https://cmsweb.cern.ch/tier0/isexpresscomplete?run=260066 >& curlOutput.txt
+./das_client.py --query="file run=260066 dataset=/StreamExpress0T/Run2015D-TkAlMinBias-Express-v4/ALCARECO | grep file.name" --limit=0 > tempFiles.txt
+260066
+Number of files 178
+Number of events 214837
+./das_client.py --query="run=260066 | grep run.bfield" --limit=0
+Job Finished 
+Job Finished Tue Oct 27 20:06:58 CET 2015
